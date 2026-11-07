@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "skycustom",
+  "version": "${version}",
+  "name": "Custom Sky Image",
+  "description": "Upload any image and wrap it around the sky, using an in-game menu.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.skycustom.SkyCustomClient"]
+  },
+  "mixins": ["skycustom.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

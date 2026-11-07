@@ -1,0 +1,27 @@
+{
+  "key.skycustom.open": "Open Sky Image Menu",
+  "key.category.skycustom.main": "Custom Sky Image",
+
+  "skycustom.screen.title": "Custom Sky Image",
+  "skycustom.path": "Image path",
+  "skycustom.path.hint": "Paste a file path, or drag & drop an image here",
+  "skycustom.browse": "Browse...",
+  "skycustom.load": "Load Image",
+  "skycustom.clear": "Remove Image",
+  "skycustom.enabled": "Custom sky",
+  "skycustom.hide_celestials": "Hide sun, moon & stars",
+  "skycustom.brightness": "Brightness",
+  "skycustom.opacity": "Opacity",
+  "skycustom.rotation": "Rotation",
+  "skycustom.done": "Done",
+  "skycustom.tip": "Works with PNG, JPG, GIF, BMP, TGA, PSD, HDR and more. 2:1 panoramas look best.",
+
+  "skycustom.status.loading": "Loading %s...",
+  "skycustom.status.loaded": "Loaded %s (%s x %s)",
+  "skycustom.status.failed": "Could not load image: %s",
+  "skycustom.status.busy": "Still loading the previous image...",
+  "skycustom.status.cleared": "Image removed.",
+  "skycustom.status.current": "Current image: %s",
+  "skycustom.status.none": "No image loaded.",
+  "skycustom.status.dialog_failed": "File dialog unavailable. Paste a path or drag & drop instead."
+}
